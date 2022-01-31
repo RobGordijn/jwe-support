@@ -1,2 +1,1 @@
-# jwe-support
-Jira Worklog Export (JEW) - Support
+# Jira Worklog Export (JEW) - Support
